@@ -1,1 +1,1 @@
-# smart_esp8266
+# My projects related to Smart Home
